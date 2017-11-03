@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FruitWorld 2</string>
+    <string name="delete">Delete</string>
+    <string name="reset_quant">Reset quantity</string>
+</resources>
